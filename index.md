@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+##  ANDROID PROJECTS REPOSITORY
 
-You can use the [editor on GitHub](https://github.com/damayant/AndroidProjects/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello World.
+I am a student at University of Alberta pursuing Masters in Computer Science. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am learning Android Development currently and I thought to upload my Projects in Git so that newbies like me can get started as well.
 
-### Markdown
+The repository contains projects in hieararchy of increasing complexity.
+```
+### 1. BrainTeaser App
+```
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+KeyPoints ::
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# - Simple Mathematical Operations to be completed in 30seconds
+# - Calculates the total score
+# - Timer 
+# - Option of Restarting after the timer runs out
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+### 2. Guess the Celebrity App
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+KeyPoints ::
 
-### Jekyll Themes
+```markdown
+Syntax highlighted code block
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/damayant/AndroidProjects/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# - Pulling Images and Information from URL
+# - Toast alerts based on result evaluation
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
